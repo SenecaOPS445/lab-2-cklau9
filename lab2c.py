@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+#Import sys module and apply the sys.argv to get input from command line
 import sys
 
 name = sys.argv[1]
