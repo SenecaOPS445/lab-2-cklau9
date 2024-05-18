@@ -10,4 +10,5 @@ timer = 10 #Startup value from 10
 while timer != 0: #Set the WHILE loop stop at 0
     print(timer)
     timer = timer - 1
+
 print('blast off!')
